@@ -14,7 +14,7 @@ A web app that performs n x n matrix multiplication using a C backend with optio
    ```bash
    docker run -p 5000:5000 matrix-app
    ```
-3. Access the app at `http://localhost:5000`.
+3. Access the app at `http://docker-host-ip:5000`.
 
 ## Usage
 - Enter the matrix size (n) for n x n matrices.
